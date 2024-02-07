@@ -1,6 +1,6 @@
 [![MasterHead](https://images2.alphacoders.com/130/1308322.jpeg)](https://github.com/Alberyt)
-<h1 align="center">Hi 👋, I'm Albert</h1>
-<h3 align="center">An enthusiastic full-stack developer eager to learn and currently looking for work experience in the web development industry. Currently making websites for small businesses for clients reaching out to me.</h3>
+<h1 align="center">I'm Albert a Software Developer</h1>
+<h3 align="center">Expert at writing spaghetti code, developing unreadable error messages and breaking code.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/39Cg.gif" >
 
 - 🔭 I’m maintaining and improving features on my CMS [Vale](https://github.com/Alberyt/vale)
