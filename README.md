@@ -1,12 +1,18 @@
-### Hi there 👋, I'm Albert
 ![](https://res.cloudinary.com/mycreativeshop/image/upload/v1/public/egvn2olqsjtapjn2ytuh)
 
+# Hi there 👋, I'm Albert
 A Computer Science Graduate working on a variety of different projects for small local businesses around my area. Previously, studied data analytics but recently switched to web development, because of its demand for creativity and difficult challenges require me to strive for better.
 
-Skills: React / Typescript / Tailwind CSS
-
-- 🔭 I’m currently working on Portfolio 
-- 🌱 I’m currently learning Three.js 
+## Skills 
+* ⚛️ React, Tailwind CSS, Typescript
+* 💻 HTML, CSS, JS
+* 💾 SQL, PostgreSQL, MongoDB, Redis
+* 🖼️ Nodejs, Flask
+* 🔣 Rust, Python, Java, C
+* 🧰 Figma, Balsamiq, Postman
+* 🦦 Stripe, Clerk, Cloudinary
+  
+## Examples of Work
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alberyt)  
