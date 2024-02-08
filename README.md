@@ -18,10 +18,3 @@ A Computer Science Graduate working on a variety of different projects for small
   <img src="https://github.com/Alberyt/alberyt/blob/main/vale.gif" width="250">
   <img src="https://github.com/Alberyt/alberyt/blob/main/dlitax.gif" width="250">
 </div>
-
-
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberyt)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alberyt&show_icons=true&count_private=true)  
-
