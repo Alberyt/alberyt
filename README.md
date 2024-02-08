@@ -15,6 +15,8 @@ A Computer Science Graduate working on a variety of different projects for small
 ## Examples of Work
 <img src="https://github.com/Alberyt/alberyt/blob/main/bottle-o.gif" width="250">
 
+
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberyt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alberyt&show_icons=true&count_private=true)  
