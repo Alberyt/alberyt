@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/mycreativeshop/image/upload/v1/public/egvn2olqsjtapjn2ytuh](https://github.com/Alberyt/alberyt/blob/main/background.jfif))
+![]((https://github.com/Alberyt/alberyt/blob/main/background.jfif))
 
 # Hi there 👋, I'm Albert
 A Computer Science Graduate working on a variety of different projects for small local businesses around my area. Previously, studied data analytics but recently switched to web development, because of its demand for creativity and difficult challenges require me to strive for better.
