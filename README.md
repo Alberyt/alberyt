@@ -13,9 +13,11 @@ A Computer Science Graduate working on a variety of different projects for small
 * 🦦 Stripe, Clerk, Cloudinary
   
 ## Examples of Work
-<img src="https://github.com/Alberyt/alberyt/blob/main/bottle-o.gif" width="250">
-<img src="https://github.com/Alberyt/alberyt/blob/main/vale.gif" width="250">
-<img src="https://github.com/Alberyt/alberyt/blob/main/dlitax.gif" width="250">
+<div class="display: flex; margin-left: 1.25rem; flex-direction: row; ">
+  <img src="https://github.com/Alberyt/alberyt/blob/main/bottle-o.gif" width="250">
+  <img src="https://github.com/Alberyt/alberyt/blob/main/vale.gif" width="250">
+  <img src="https://github.com/Alberyt/alberyt/blob/main/dlitax.gif" width="250">
+</div>
 
 
 ## Stats
