@@ -13,7 +13,7 @@ A Computer Science Graduate working on a variety of different projects for small
 * 🦦 Stripe, Clerk, Cloudinary
   
 ## Examples of Work
-<img src="https://github.com/Alberyt/alberyt/blob/main/bottle-o.gif" width="250>
+<img src="https://github.com/Alberyt/alberyt/blob/main/bottle-o.gif" width="250">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberyt)](https://github.com/anuraghazra/github-readme-stats)
 
